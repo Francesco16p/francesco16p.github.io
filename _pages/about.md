@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Filippo Ascolani"
+title: "Francesco Pozza"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Statistics at Bocconi University, under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/), [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=) and [Matteo Ruggiero](https://www.matteoruggiero.it). Furthermore, I am a member of [Bayes Lab](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home), a research unit of the Bocconi Institute for Data Science and Analytics [BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home), and of the MIDAS [Complex Data Modelling Research Network](https://midas.mat.uc.cl/network/).
+I am a PhD student in Statistical Sciences at University of Padova, under the supervision of [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa/) and [Daniele Durante](https://danieledurante.github.io/web/). Furthermore, I am a member of [Bayes Lab](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home), a research unit of the Bocconi Institute for Data Science and Analytics [BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home).
 
 Research Interests
 ======
 
-* **Bayesian Statistics**, with a focus on nonparametric methods.
-* Theoretical analysis of **complex data structures**, due to temporal dependence or other covariates.
-* Theory of Bayesian computation.
+* **Bayesian asymptotics**, with a focus on higher order theory.
+* Bias reduction methods for small sample parametric inference.
+* Biostatistical methodology
