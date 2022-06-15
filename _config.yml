@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Filippo Ascolani"
+title                    : "Francesco Pozza"
 title_separator          : "-"
-name                     : &name "Filippo Ascolani"
+name                     : &name "Francesco Pozza"
 description              : &description "personal description"
-url                      : https://FilippoAscolani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://francesco16p.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Filippo Ascolani"
+  name             : "Francesco Pozza"
   avatar           : "AscolaniPhoto.jpg"
-  bio              : "PhD student, Statistics"
-  location         : "Milan, Italy"
-  employer         : "Bocconi University"
+  bio              : "PhD student, Statistical sciences"
+  location         : "Padova, Italy"
+  employer         : "University of Padova"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "filippo.ascolani@carloalberto.org"
-  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "francesco.pozza.2@phd.unipd.it"
+  researchgate     :  https://www.researchgate.net/profile/Francesco-Pozza
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "FilippoAscolani"
+  github           : "Francesco16p"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/filippo-ascolani-828677147/
-  #orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : https://www.linkedin.com/in/francesco-pozza-2ab5051b8/
+  orcid            : https://orcid.org/0000-0001-8109-6849
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
