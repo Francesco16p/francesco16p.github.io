@@ -13,35 +13,12 @@ author_profile: true
 {% include base_path %}
 
 
-**Journals**
-
-* Ascolani, F., Lijoi, A. and Ruggiero, M. (2021)
-**Predictive inference with Fleming-Viot driven dependent Dirichlet processes.**
-*Bayesian Anal.*, 16(2): 371-395 ([pdf](https://projecteuclid.org/download/pdfview_1/euclid.ba/1588125765)).
-
-**Papers under reviews**
-
-* Ascolani, F., Lijoi, A., Rebaudo, G. and Zanella, G. (2022+)
-**Clustering consistency with Dirichlet process mixtures.**
-*Under Review*.
-
-* Ascolani, F., Lijoi, A. and Ruggiero, M. (2022+)
-**Smoothing distributions for conditional Fleming--Viot and Dawson--Watanabe diffusions.**
-*Under Review*.
-
-* Ascolani, F., Franzolini, B., Lijoi, A. and Prünster, I. (2022+)
-**Nonparametric priors with full-range borrowing of information.**
-*Under Review*.
-
 **Proceedings**
 
-* Ascolani, F., Franzolini, B., Lijoi, A. and Prünster, I. (2021)
-**On the dependence structure in Bayesian nonparametric priors.**
+* Kenne Pagui E. C., Pozza, F. and Salvan A. (2021) 
+**Improved maximum likelihood estimator in relative risk regression.**
 *Book of Short Papers of the Italian Statistical Society*, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/pearson-sis-book-2021-parte-2.pdf)).
 
-* Ascolani, F., Lijoi, A. Ruggiero, M. and Prünster, I. (2021)
-**A framework for filtering in hidden Markov models with normalized random measures.**
-*Book of Short Papers of the Italian Statistical Society*, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/pearson-sis-book-2021-parte-1.pdf).
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
