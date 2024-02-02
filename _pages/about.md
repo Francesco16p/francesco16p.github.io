@@ -14,7 +14,7 @@ I received my Ph.D. in Statistical Sciences from the University of Padova, under
 Research Interests
 ======
 
-* **Bayesian computation**
+* **Bayesian computation**.
 * **Bayesian asymptotics**, with a focus on higher order theory.
 * Bias reduction methods for **small sample** parametric inference.
 * Biostatistical methodology
