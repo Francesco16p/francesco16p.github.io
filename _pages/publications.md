@@ -12,6 +12,13 @@ author_profile: true
 
 {% include base_path %}
 
+**Journals**
+
+* Pozza F., Kenne Pagui E. C. and Salvan A. (2023). **Improved and computationally stable estimation of relative risk regression with one binary exposure.** *Statistical Methods in Medical Research*, 32(6), 1234-1246.
+
+**Papers under reviews**
+
+* Durante D., Pozza F. and Szabo B. (2023+). **Skewed Bernstein-von Mises theorem and skew-modal approximations.** *https://arxiv.org/pdf/2301.03038.pdf*
 
 **Proceedings**
 
