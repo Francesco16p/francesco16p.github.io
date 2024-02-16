@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Francesco Pozza"
 title_separator          : "-"
 name                     : &name "Francesco Pozza"
-description              : &description "Phd Student at Università degli Studi di Padova"
+description              : &description "Postdoctoral researcher at the Bocconi Institute for Data Science and Analytics"
 url                      : https://francesco16p.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Francesco16p/francesco16p.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Francesco Pozza"
   avatar           : "Foto Francesco Pozza.jpg"
-  bio              : "PhD student, Statistical sciences"
-  location         : "Padova, Italy"
-  employer         : "University of Padova"
+  bio              : "Postdoctoral researcher, Statistical sciences"
+  location         : "Milano, Italy"
+  employer         : "Bocconi University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "francesco.pozza.2@phd.unipd.it"
+  googlescholar    : "https://scholar.google.com/citations?user=3DPOqBwAAAAJ&hl=it&oi=ao"
+  email            : "francesco.pozza2@unibocconi.it"
   researchgate     :  https://www.researchgate.net/profile/Francesco-Pozza
   uri              :
   bitbucket        :
