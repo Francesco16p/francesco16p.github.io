@@ -14,13 +14,9 @@ author_profile: true
 
 **Journals**
 
-* Durante D., Pozza F. and Szabo B. (2023+). **Skewed Bernstein-von Mises theorem and skew-modal approximations.** *Annals of Statistics (forthcoming)*, Winner of the 2023 ASA-SBSS Student Paper Competition ([pdf](https://arxiv.org/abs/2301.03038))
+* Durante D., Pozza F. and Szabo B. (2024). **Skewed Bernstein-von Mises theorem and skew-modal approximations.** *Annals of Statistics (forthcoming)*, Winner of the 2023 ASA-SBSS Student Paper Competition ([pdf](https://arxiv.org/abs/2301.03038))
   
 * Pozza F., Kenne Pagui E. C. and Salvan A. (2023). **Improved and computationally stable estimation of relative risk regression with one binary exposure.** *Statistical Methods in Medical Research*, 32(6), 1234-1246.
-
-**Papers under reviews**
-
-
 
 **Proceedings**
 
