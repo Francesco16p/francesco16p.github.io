@@ -23,6 +23,10 @@ author_profile: true
 
 **Proceedings**
 
+* Pozza, F. (2024) 
+**An application of skew-symmetric approximations of posterior distributions to logistic regression.**
+*Book of Short Papers of the Italian Statistical Society*.
+
 * Kenne Pagui E. C., Pozza, F. and Salvan A. (2021) 
 **Improved maximum likelihood estimator in relative risk regression.**
 *Book of Short Papers of the Italian Statistical Society*, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/pearson-sis-book-2021-parte-2.pdf)).
