@@ -11,6 +11,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+**Submitted**
+
+** Durante D., Pozza F. and Szabo B. (2024). **Skew-symmetric approximations of posterior distributions.** *Submitted*([pdf](https://arxiv.org/abs/2409.14167))
 
 **Journals**
 
