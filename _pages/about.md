@@ -19,4 +19,4 @@ Research Interests
 * Bias reduction methods for **small sample** parametric inference.
 * Biostatistical methodology
 
-A full version of my CV may be found here.
+A reasonably up-to-date version of my CV can be found [here](https://github.com/Francesco16p/francesco16p.github.io/files/14139138/Cv_Pozza_Francesco.pdf).
