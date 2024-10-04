@@ -18,3 +18,5 @@ Research Interests
 * **Bayesian asymptotics**, with a focus on higher order theory.
 * Bias reduction methods for **small sample** parametric inference.
 * Biostatistical methodology
+
+A full version of my CV may be found here.
