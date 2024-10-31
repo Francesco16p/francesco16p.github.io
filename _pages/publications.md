@@ -13,7 +13,9 @@ author_profile: true
 {% include base_path %}
 **Submitted**
 
-* Pozza F., Durante D. and Szabo B. (2024). **Skew-symmetric approximations of posterior distributions.** *Submitted*([pdf](https://arxiv.org/abs/2409.14167))
+* Pozza F., Zanella G. (2024+). **On the fundamental limitations of multiproposal Markov chain Monte Carlo algorithms.** *Submitted*([pdf](https://arxiv.org/pdf/2410.23174))
+  
+* Pozza F., Durante D. and Szabo B. (2024+). **Skew-symmetric approximations of posterior distributions.** *Submitted*([pdf](https://arxiv.org/abs/2409.14167))
 
 **Journals**
 
