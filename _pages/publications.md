@@ -19,7 +19,7 @@ author_profile: true
 
 **Journals**
 
-* Durante D., Pozza F. and Szabo B. (2024). **Skewed Bernstein-von Mises theorem and skew-modal approximations.** *Annals of Statistics (forthcoming)*, Winner of the 2024 ASA-SBSS Laplace Award ([pdf](https://arxiv.org/abs/2301.03038))
+* Durante D., Pozza F. and Szabo B. (2024). **Skewed Bernstein-von Mises theorem and skew-modal approximations.** *The Annals of Statistics 52 (6), 2714-2737*, Winner of the 2024 ASA-SBSS Laplace Award ([pdf](https://arxiv.org/abs/2301.03038))
   
 * Pozza F., Kenne Pagui E. C. and Salvan A. (2023). **Improved and computationally stable estimation of relative risk regression with one binary exposure.** *Statistical Methods in Medical Research*, 32(6), 1234-1246.
 
