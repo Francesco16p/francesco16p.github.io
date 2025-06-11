@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Cv_Pozza_Francesco.pdf](https://github.com/Francesco16p/francesco16p.github.io/files/14139138/Cv_Pozza_Francesco.pdf)
+[Cv_Pozza_Francesco.pdf](https://github.com/Francesco16p/francesco16p.github.io/blob/master/Pozza_Francesco_CV.pdf)
