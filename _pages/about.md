@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher at the Bocconi Institute for Data Science and Analytics [BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home), under the supervision of [Giacomo Zanella](https://sites.google.com/site/gzanellawebpage/home)
+I am a postdoctoral researcher at the Bocconi Institute for Data Science and Analytics [BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home) working with [Giacomo Zanella](https://sites.google.com/site/gzanellawebpage/home)
 
 I received my Ph.D. in Statistical Sciences from the University of Padova, under the supervision of [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa/), [Daniele Durante](https://danieledurante.github.io/web/) and [Botond Szabo](https://botondszabo.com/research-team/).
 
