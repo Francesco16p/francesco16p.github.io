@@ -16,9 +16,9 @@ author_profile: true
 
 * Pozza F., Durante D. and Szabo B. (2025). **Skew-symmetric approximations of posterior distributions.** *Journal of the Royal Statistical Society, Series B (Statistical Methodology), forthcoming*([pdf](https://arxiv.org/abs/2409.14167))
 
-* Pozza F., Zanella G. (2025). **On the fundamental limitations of multiproposal Markov chain Monte Carlo algorithms.** *Biometrika (forthcoming)*([pdf](https://arxiv.org/pdf/2410.23174))
+* Pozza F., Zanella G. (2025). **On the fundamental limitations of multiproposal Markov chain Monte Carlo algorithms.** *Biometrika 112 (2)*([pdf](https://arxiv.org/pdf/2410.23174))
 
-* Durante D., Pozza F. and Szabo B. (2024). **Skewed Bernstein-von Mises theorem and skew-modal approximations.** *Annals of Statistics 52 (6), 2714-2737*, Winner of the 2024 ASA-SBSS Laplace Award ([pdf](https://arxiv.org/abs/2301.03038))
+* Durante D., Pozza F. and Szabo B. (2024). **Skewed Bernstein-von Mises theorem and skew-modal approximations.** *Annals of Statistics 52 (6), 2714-2737*, Winner of the 2024 ASA-SBSS [Laplace Award](https://community.amstat.org/sbss/home) ([pdf](https://arxiv.org/abs/2301.03038))
   
 * Pozza F., Kenne Pagui E. C. and Salvan A. (2023). **Improved and computationally stable estimation of relative risk regression with one binary exposure.** *Statistical Methods in Medical Research*, 32(6), 1234-1246.
 
