@@ -14,7 +14,7 @@ author_profile: true
 
 **Journals**
 
-* Pozza F., Durante D. and Szabo B. (2025+). **Skew-symmetric approximations of posterior distributions.** *Journal of the Royal Statistical Society, Series B (Statistical Methodology), forthcoming*([pdf](https://arxiv.org/abs/2409.14167))
+* Pozza F., Durante D. and Szabo B. (2025). **Skew-symmetric approximations of posterior distributions.** *Journal of the Royal Statistical Society, Series B (Statistical Methodology), forthcoming*([pdf](https://arxiv.org/abs/2409.14167))
 
 * Pozza F., Zanella G. (2025). **On the fundamental limitations of multiproposal Markov chain Monte Carlo algorithms.** *Biometrika (forthcoming)*([pdf](https://arxiv.org/pdf/2410.23174))
 
