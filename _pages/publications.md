@@ -12,9 +12,13 @@ author_profile: true
 
 {% include base_path %}
 
+**Preprints**
+
+* Pozza F., Zanella G. (2026+). **Zeroth-order parallel sampling** ([pdf](https://arxiv.org/pdf/2601.19722v1))
+
 **Journals**
 
-* Pozza F., Durante D. and Szabo B. (2025). **Skew-symmetric approximations of posterior distributions.** *Journal of the Royal Statistical Society, Series B (Statistical Methodology), forthcoming*([pdf](https://arxiv.org/abs/2409.14167))
+* Pozza F., Durante D. and Szabo B. (2026). **Skew-symmetric approximations of posterior distributions.** *Journal of the Royal Statistical Society, Series B (Statistical Methodology), forthcoming*([pdf](https://arxiv.org/abs/2409.14167))
 
 * Pozza F., Zanella G. (2025). **On the fundamental limitations of multiproposal Markov chain Monte Carlo algorithms.** *Biometrika 112 (2)*([pdf](https://arxiv.org/pdf/2410.23174))
 
