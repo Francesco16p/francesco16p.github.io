@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Francesco Pozza"
   avatar           : "Foto_Pozza.jpeg"
-  bio              : "Postdoctoral researcher, Statistical sciences"
-  location         : "Milano, Italy"
-  employer         : "Bocconi University"
+  bio              : "Assistant Professor of Statistics"
+  location         : "Dublin, Ireland"
+  employer         : "University College Dublin"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3DPOqBwAAAAJ&hl=it&oi=ao"
-  email            : "francesco.pozza2@unibocconi.it"
+  email            : "francesco.pozza@ucd.ie"
   researchgate     :  https://www.researchgate.net/profile/Francesco-Pozza
   uri              :
   bitbucket        :
